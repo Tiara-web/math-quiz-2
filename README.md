@@ -1,1 +1,1 @@
-# math-quiz-2
+# math-quiz-project
